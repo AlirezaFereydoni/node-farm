@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Practicing Nodejs with simple application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlirezaFereydoni/node-farm.git"
+  },
+  "author": "Alireza Fereydoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlirezaFereydoni/node-farm/issues"
+  },
+  "homepage": "https://github.com/AlirezaFereydoni/node-farm#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
